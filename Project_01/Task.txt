@@ -1,0 +1,14 @@
+REST API -- JASON
+
+GET/users - List all Users
+
+GET/users/1 - Get the user with ID 1
+GET/users/2 - Get the user with ID 2
+// Dynamic Path Parameters
+
+
+Post/users - Create a New Users
+
+PATCH/users/1 - Edit the user With ID 1
+
+DELETE/users/1 - Delete the user with ID 1
